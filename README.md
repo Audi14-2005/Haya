@@ -1,6 +1,6 @@
-# JUNE
+# Haya
 
-JUNE is an offline-first Android app for running GGUF language models on-device.
+HAYA is an offline-first Android app for running GGUF language models on-device.
 
 This repository is a college-project adaptation of an open-source Android local-LLM app. The current codebase is focused on:
 
